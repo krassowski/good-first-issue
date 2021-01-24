@@ -382,6 +382,7 @@ repositories = [
   'github.com/kiali/kiali',
   'github.com/knative/serving',
   'github.com/knex/knex',
+  'github.com/krassowski/jupyterlab-lsp',
   'github.com/kognise/water.css',
   'github.com/komeiji-satori/Dress',
   'github.com/ktorio/ktor',
